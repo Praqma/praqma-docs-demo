@@ -1,0 +1,12 @@
+# Site settings
+title: Praqma docs demo
+tag_text: A demo of Praqma docs template use
+description: Jekyll site layout demonstration using of our template repo
+css-path: http://code.praqma.com/css/praqmacode.css
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+exclude: ["README.md"]
+sass:
+  style: compressed
