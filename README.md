@@ -1,4 +1,9 @@
+---
+maintainer: buep
+---
+
 # praqma-docs-demo
+
 Example of using our praqma-docs jekyll site layout for simple Github page.
 
 ## Steps to use our common layout to get a github page
